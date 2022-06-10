@@ -45,3 +45,4 @@ THEN the password is either displayed in an alert or written to the page
 <img src="https://github.com/Zaphod1977/UniquePasswordGenerator/blob/main/assets/images/step%205%20generator.JPG?raw=true" alt="step 5 generator">
 <img src="https://github.com/Zaphod1977/UniquePasswordGenerator/blob/main/assets/images/Result%20generator.JPG?raw=true" alt="result generator">
 
+Project by Bobby Bridges aka: Zaphod Bobbybrox
