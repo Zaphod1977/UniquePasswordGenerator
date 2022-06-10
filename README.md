@@ -38,7 +38,7 @@ THEN the password is either displayed in an alert or written to the page
 3. Select criteria by clicking OK to include the character selections or Cancel to not include it. Go through all 4 criteria.
 4. Your randowm password is generated. Copy the password to use it.
 
-### URL : https://github.com/Zaphod1977/UniquePasswordGenerator/blob/main/assets/images/step%201%20generator.JPG?raw=true
+<img src="https://github.com/Zaphod1977/UniquePasswordGenerator/blob/main/assets/images/step%201%20generator.JPG?raw=true" alt="step 1 generator">
 ### URL : https://github.com/Zaphod1977/UniquePasswordGenerator/blob/main/assets/images/step%202%20generator.JPG?raw=true
 ### URL : https://github.com/Zaphod1977/UniquePasswordGenerator/blob/main/assets/images/step%203%20generator.JPG?raw=true
 ### URL : https://github.com/Zaphod1977/UniquePasswordGenerator/blob/main/assets/images/step%204%20generator.JPG?raw=true
